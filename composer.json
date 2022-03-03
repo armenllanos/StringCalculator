@@ -1,3 +1,6 @@
+diff --git a/composer.json b/composer.json
+index 16c143f..7be7f81 100644
+b/composer.json
 {
     "name": "deg540/php-testing-boilerplate",
     "description": "Php testing boilerplate",
